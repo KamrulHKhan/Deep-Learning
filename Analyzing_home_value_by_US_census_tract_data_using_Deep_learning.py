@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Aug  3 20:14:59 2022
-
 @author: Md Kamrul Hasan Khan
 
 """
